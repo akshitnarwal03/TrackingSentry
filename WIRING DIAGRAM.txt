@@ -1,0 +1,9 @@
+WIRING DIAGRAM
+
+  SERVO       ARDUINO
+  
+  GND         GND
+  5V          5V
+  Signal      D9
+
+>> Remember to Change the COM Port of your Arduino board when it connects to the computer in OpenPort.py
